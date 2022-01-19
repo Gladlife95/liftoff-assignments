@@ -19,7 +19,7 @@ rames here, adding images or files to your repository as necessary. Format them 
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/invite/b/KO5KVmRp/104421684f04bfadf478293f6f9508b8/launchcode-capstone
 
 ### Project Repo Link
 
